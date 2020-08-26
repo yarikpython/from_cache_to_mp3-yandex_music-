@@ -2,7 +2,7 @@ import os
 import shutil
 
 
-path_cache = 'C:\\Users\\booya\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\nahd6ha2.default\\cache2\\entries'
+path_cache = 'C:\\Users\\<username>\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\nahd6ha2.default\\cache2\\entries'
 norm_path_cache = os.path.normpath(path_cache)
 path_target_dir = 'C:\\Users\\booya\\Desktop\\music'
 norm_path_target_dir = os.path.normpath(path_target_dir)
